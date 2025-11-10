@@ -1,4 +1,4 @@
-# tismir-the-vocal-eras-tour-microtiming-trends-across-decades-and-genres
+# tismir2026-the-vocal-eras-tour
 Repository for 2026 TISMIR paper "The Vocal Eras Tour: Microtiming Trends Across Decades and Genres"
 
 See tismir-trackids-microtiming-data.csv for list of MSD Track IDs used in the analysis, along with microtiming characteristics from carat. 
